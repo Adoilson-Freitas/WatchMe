@@ -5,9 +5,11 @@ nav.sidebar {
   align-items: center;
 
   max-width: 24rem;
+  height: 100%;
   width: 100%;
 
   padding: 2rem;
+  position: fixed;
 
   background: var(--background2);
 
